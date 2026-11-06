@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a final-year B.Tech student in Computer Science and Engineering at Bennett University, with a passion for Software Development and UI/UX Design. I specialize in building interactive, scalable, and efficient web applications using modern technologies.
+I am a Graduate in B.Tech Computer Science and Engineering, with a passion for Software Development , UI/UX Design and AI integrations. I specialize in building interactive, scalable, and efficient web applications using modern technologies.
 
 ## 💻 Skills & Technologies
 
